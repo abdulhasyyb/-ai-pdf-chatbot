@@ -40,7 +40,7 @@ Create a .env file in the root directory:
 GOOGLE_API_KEY=your_gemini_api_key_here
 💡 Get your Gemini API key from: https://ai.google.dev
 
-### 3.Run
+### 4.Run
 
 streamlit run app2.py
 
