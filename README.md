@@ -24,11 +24,13 @@ A simple Streamlit app that lets you upload any PDF and ask natural language que
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/pdf-chat-gemini.git
-cd pdf-chat-gemini
+1.git clone https://github.com/yourusername/pdf-chat-gemini.git
 
+2.cd pdf-chat-gemini
 
-3. Set Up API Key
+3.pip install -r requirements.txt
+
+4. Set Up API Key
 Create a .env file in the root directory:
 
 .env
